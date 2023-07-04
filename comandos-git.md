@@ -11,3 +11,9 @@ git init
 ```
 git remote -v
 ```
+
+3. Añade todos los archivos para el commit
+
+```
+git add .
+```
