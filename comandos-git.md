@@ -53,3 +53,9 @@ git remote -v
 ```
 git branch <nombreDeLaRama>
 ```
+
+10. Muestra una lista de las ramas existentes
+
+```
+git branch
+```
