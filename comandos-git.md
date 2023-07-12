@@ -17,3 +17,9 @@ git remote -v
 ```
 git add .
 ```
+
+4. Para realizar un commit utilizamos:
+
+```
+git commit -m"Texto para identificar el commit"
+```
