@@ -35,3 +35,9 @@ git push origin master
 ```
 git log
 ```
+
+7. Agrega un repositorio remoto
+
+```
+git remote add origin <url>
+```
