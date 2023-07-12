@@ -47,3 +47,9 @@ git remote add origin <url>
 ```
 git remote -v
 ```
+
+9. Comando para crear una rama
+
+```
+git branch <nombreDeLaRama>
+```
