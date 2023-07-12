@@ -29,6 +29,10 @@
    ```
 
 6. ¿Qué comando utilizo para agregar archivos preparados al repositorio?
+
    ```
    git commit -m"Mensaje"
    ```
+
+7. ¿Cuál es el nombre por defecto de la rama principal de mi proyecto?
+   Master o Main
