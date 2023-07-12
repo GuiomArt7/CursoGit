@@ -21,3 +21,14 @@
 
 4. ¿Qué es un commit?
    Consiste en subir cosas a la versión local del repositorio. De esta manera se puede trabajar en la rama de forma local sin tener que modificar ninguna versión en remoto ni tener que tener la última versión remota, muy útil en grandes desarrollos trabajados por varias personas.
+
+5. ¿Qué comando utilizo para agregar archivos modificados al staging area?
+
+   ```
+   git add .
+   ```
+
+6. ¿Qué comando utilizo para agregar archivos preparados al repositorio?
+   ```
+   git commit -m"Mensaje"
+   ```
