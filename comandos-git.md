@@ -29,3 +29,9 @@ git commit -m"Texto para identificar el commit"
 ```
 git push origin master
 ```
+
+6. Muestra los logs de los commits:
+
+```
+git log
+```
