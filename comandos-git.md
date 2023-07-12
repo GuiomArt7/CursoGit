@@ -59,3 +59,9 @@ git branch <nombreDeLaRama>
 ```
 git branch
 ```
+
+11. Muestra el estado actual del repositorio con lista de archivos modificados o agregados
+
+```
+git status
+```
