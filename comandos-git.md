@@ -41,3 +41,9 @@ git log
 ```
 git remote add origin <url>
 ```
+
+8. Muestra una lista de repositorios:
+
+```
+git remote -v
+```
