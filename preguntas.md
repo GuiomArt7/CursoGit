@@ -17,3 +17,4 @@
 Github es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Se emplea principalmente para la creación de código fuente de programas de computadora. Permite colaborar para mejorar los proyectos de otros y a otros mejorar o aportar a los tuyos.
 
 3. ¿Qué es el Staging Area?
+   Es un espacio en memoria ram donde se almacena información acerca de lo que va a ir en un próximo commit. Es el estado temporal donde nuestros archivos están en modo espera.
