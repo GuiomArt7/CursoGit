@@ -23,3 +23,9 @@ git add .
 ```
 git commit -m"Texto para identificar el commit"
 ```
+
+5. Comando para subir al repositorio por primera vez
+
+```
+git push origin master
+```
